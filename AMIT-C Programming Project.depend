@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1694290135 source:c:\users\reemmohamed\documents\code\amit-c programming project\sdb.c
+	<stdio.h>
+	<stdlib.h>
+	"SDB.h"
+
+1694288305 source:c:\users\reemmohamed\documents\code\amit-c programming project\sdbapp.c
+	"STD.h"
+
+1694288204 source:c:\users\reemmohamed\documents\code\amit-c programming project\main.c
+	"SDB.h"
+
+1693915403 c:\users\reemmohamed\documents\code\amit-c programming project\std.h
+
+1694283866 c:\users\reemmohamed\documents\code\amit-c programming project\sdb.h
+	"STD.h"
+
+1693651752 c:\users\reemmohamed\documents\code\amit-c programming project\sdb.c
+	"SDB.h"
+
+1693654111 c:\users\reemmohamed\documents\code\amit-c programming project\sdbapp.c
+	<stdio.h>
+
